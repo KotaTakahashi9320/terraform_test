@@ -1,0 +1,5 @@
+resource_group_name = "Sandbox-RD"
+location            = "japaneast"
+post_fix            = "test"
+vm_size             = "Standard_D2s_v3"
+ssh_user            = "ubuntu"
